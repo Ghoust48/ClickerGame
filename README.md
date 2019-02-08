@@ -1,4 +1,4 @@
-# Bubble clck-clck-clck
+# Bubble click-click-click
 
 My game is create on C++ and were used GLUT and GLAUX. 
 To play in game you need install libraries GLUT and GLAUX. To do this you need:
