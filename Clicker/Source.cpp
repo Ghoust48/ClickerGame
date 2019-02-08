@@ -580,7 +580,7 @@ GLvoid MouseClck(GLint button, GLint state, GLint x, GLint y)
 				if ((x <= width - 100 && x >= width - 400) && (yy <= height - 200 && yy >= height - 250))
 				{
 					PlaySound("2.wav", NULL, SND_ASYNC);
-					Time = 5;
+					Time = 60;
 					glutDisplayFunc(DrawGameObject);
 				}
 				else if ((x <= width - 100 && x >= width - 400) && (yy <= height - 270 && yy >= height - 320))
